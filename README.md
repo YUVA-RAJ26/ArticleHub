@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# ArticleHub
 
-Things you may want to cover:
+ArticleHub is a web application that allows users to create and share articles, along with the ability to receive comments and likes on those articles.
 
-* Ruby version
+## Features
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- User authentication with Devise
+- CRUD operations for articles
+- Comments on articles
+- Like functionality for articles
